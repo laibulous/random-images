@@ -19,7 +19,7 @@ It stores images that I reference in projects, documentation, README files, and 
 Images in this repository can be accessed using GitHub’s raw content URLs.
 
 ### Example:
-https://raw.githubusercontent.com/<username>/<repository-name>/main/<image-name>
+https://raw.githubusercontent.com/yourusername/repository-name/main/image-name.png
 
 Replace:
 - `<username>` with your GitHub username  
